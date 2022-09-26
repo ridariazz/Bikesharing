@@ -10,37 +10,37 @@ Here are the 5 visualizations we created:
 
 The highest duration by hour that bikes are checked out from is between 4-6 hours. 
 
-(add image)
+![checkout times](https://user-images.githubusercontent.com/106577074/192192316-f14f0a59-2ba1-42ba-a049-25a344f0aa5a.png)
 
 ### Checkout Times by Gender
 
 Here, we can see that bikes are mostly checked out by males
 
-(add image)
+![checkout times_gender](https://user-images.githubusercontent.com/106577074/192192349-a3573e45-d2e8-4af7-994f-a110960d61fc.png)
 
 ### Trips by Weekday 
 
 The popular times of weekday rides are from 7am-7pm indicated by the darker parts of our heatmap. 
 
-(add image)
+![trips by weekday](https://user-images.githubusercontent.com/106577074/192192370-4fbc5a23-b634-4bf3-9a05-b672081876b9.png)
 
 ### Trips by Gender
 
 This visualization highlights that weekday rides are popular from 7am-8pm mostly by males. 
 
-(add image)
+![trips by gender](https://user-images.githubusercontent.com/106577074/192192390-a0601951-076f-4e64-a9a4-c7846f3a75f8.png)
 
 ### User Trips by Gender
 
 This highlights pretty much the same information as the other two visualizations above, but we can see the user-type is mostly subscribers.
 
-(add image)
+![user trips by gender](https://user-images.githubusercontent.com/106577074/192192399-1c35db61-635e-4d6b-b880-da010a1231b1.png)
 
 ## August Bike Ride Data
 
 August tends to be the busiest month out of the year for bike rides in NYC. Below is a visualization of bike ride data from August 2019 and we can see Manhattan had the most rides conducted by male bike riders. The number of rides total for the month of August itself was over 2.3 million with ~1.6 million being male! 
 
-(add image) 
+![Screen Shot 2022-09-25 at 9 01 27 PM](https://user-images.githubusercontent.com/106577074/192192415-1b7f0f2b-ebf3-4665-851d-734e23d62d38.png)
 
 ## Summary 
 
