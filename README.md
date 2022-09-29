@@ -2,6 +2,8 @@
 
 In this project, we created visualizations using Tableau and created a story to convince investors that a bike-sharing program in Des Moines is a solid business proposal. We created an in-depth, step-by-step analysis of the bike trip data. 
 
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/rida.riaz)
+
 ## Results 
 
 Here are the 5 visualizations we created:
